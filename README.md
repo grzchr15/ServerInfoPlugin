@@ -2,6 +2,7 @@
 Wordpress plugin to show Server Information and Client connect information
 
 = Example Usage =
+
 You are seen from [serverinfotag tag='REMOTE_ADDR' text='bold']:[serverinfotag tag='REMOTE_PORT' text='bold']
 Your Reverse Hostname is [serverinfotag tag='REMOTE_HOST' text='bold'] .
 You are using 
